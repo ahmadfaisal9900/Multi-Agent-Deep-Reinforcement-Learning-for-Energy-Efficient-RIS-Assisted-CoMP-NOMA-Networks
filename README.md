@@ -37,8 +37,8 @@ This repository contains the code and configurations for a novel multi-agent dee
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.11+
 - Ray and RLlib for reinforcement learning
 - Gymnasium for environment management
-- `comyx` library for network modeling
+- [`comyx`](https://comyx.readthedocs.io/latest/) library for network modeling
 - TensorBoard for logging and visualization (optional)
